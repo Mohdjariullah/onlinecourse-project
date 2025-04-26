@@ -14,12 +14,12 @@ Open Your browser put inside browser “http://localhost/onlinecourse”
 Login Details for admin 
 Username: admin
 Password: Test@123
-
+<br>
 Login Details for Student: 
 Reg No.: 10806121
 Password: Test@123
 Student Pincode for enroll Course Student: 822894
-
+<br>
 Login Details for Student: 
 Reg No.: 109IS21013
 Password: sami
